@@ -1,0 +1,11 @@
+pennylane==0.37.0
+autoray>=0.6.11,<0.7
+numpy
+scipy
+scikit-learn
+networkx
+matplotlib
+nbclient
+ipykernel
+jupyterlab
+pytest
