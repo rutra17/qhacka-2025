@@ -1,9 +1,9 @@
 */__pycache__/
-grader/*              # mantém grader privado
+grader/
 *.pyc
-.ipynb_checkpoints/   # checkpoints Jupyter
+.ipynb_checkpoints/
 **/.ipynb_checkpoints/
-venv/*                 # ambiente virtual local
+venv/
 .env
 .idea/
 .vscode/
