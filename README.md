@@ -2,6 +2,7 @@
 
 Um hackathon **individual** focado em **métodos quânticos para robótica**.  
 Resolva 8 desafios de código auto‑contidos; cada um traz testes públicos nos notebooks e será reavaliado pelos organizadores em seeds ocultas.
+Mais informações sobre o evento podem ser encontradas [neste](https://docs.google.com/document/d/1B8S89PZ7vMU1Xnout1UmeTANd7k6vev9-T869kVlfWs/edit?usp=drive_link) edital.
 
 ## Trilhas & Desafios (8 no total)
 - **Percepção & Sensoriamento**
